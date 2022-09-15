@@ -1,0 +1,14 @@
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\bin\Debug\netcoreapp3.1\TreinamentoLiskov.exe
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\bin\Debug\netcoreapp3.1\TreinamentoLiskov.deps.json
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\bin\Debug\netcoreapp3.1\TreinamentoLiskov.runtimeconfig.json
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\bin\Debug\netcoreapp3.1\TreinamentoLiskov.runtimeconfig.dev.json
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\bin\Debug\netcoreapp3.1\TreinamentoLiskov.dll
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\bin\Debug\netcoreapp3.1\TreinamentoLiskov.pdb
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.csproj.AssemblyReference.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.AssemblyInfoInputs.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.AssemblyInfo.cs
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.csproj.CoreCompileInputs.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.dll
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.pdb
+C:\Priscila_Treinamentos\PriscilaTreinamentos\TreinamentoLiskov\obj\Debug\netcoreapp3.1\TreinamentoLiskov.genruntimeconfig.cache

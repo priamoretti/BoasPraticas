@@ -1,0 +1,7 @@
+C:\Priscila_Treinamentos\PriscilaTreinamentos\PriscilaTreinamentos\obj\Debug\PriscilaTreinamentos.csproj.AssemblyReference.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\PriscilaTreinamentos\obj\Debug\PriscilaTreinamentos.csproj.CoreCompileInputs.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\PriscilaTreinamentos\bin\Debug\PriscilaTreinamentos.exe.config
+C:\Priscila_Treinamentos\PriscilaTreinamentos\PriscilaTreinamentos\bin\Debug\PriscilaTreinamentos.exe
+C:\Priscila_Treinamentos\PriscilaTreinamentos\PriscilaTreinamentos\bin\Debug\PriscilaTreinamentos.pdb
+C:\Priscila_Treinamentos\PriscilaTreinamentos\PriscilaTreinamentos\obj\Debug\PriscilaTreinamentos.exe
+C:\Priscila_Treinamentos\PriscilaTreinamentos\PriscilaTreinamentos\obj\Debug\PriscilaTreinamentos.pdb

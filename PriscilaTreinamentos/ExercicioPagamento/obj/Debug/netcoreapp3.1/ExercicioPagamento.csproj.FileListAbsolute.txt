@@ -1,0 +1,14 @@
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.AssemblyInfoInputs.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.AssemblyInfo.cs
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.csproj.CoreCompileInputs.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\bin\Debug\netcoreapp3.1\ExercicioPagamento.exe
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\bin\Debug\netcoreapp3.1\ExercicioPagamento.deps.json
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\bin\Debug\netcoreapp3.1\ExercicioPagamento.runtimeconfig.json
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\bin\Debug\netcoreapp3.1\ExercicioPagamento.runtimeconfig.dev.json
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\bin\Debug\netcoreapp3.1\ExercicioPagamento.dll
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\bin\Debug\netcoreapp3.1\ExercicioPagamento.pdb
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.dll
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.pdb
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.genruntimeconfig.cache
+C:\Priscila_Treinamentos\PriscilaTreinamentos\ExercicioPagamento\obj\Debug\netcoreapp3.1\ExercicioPagamento.csproj.AssemblyReference.cache
