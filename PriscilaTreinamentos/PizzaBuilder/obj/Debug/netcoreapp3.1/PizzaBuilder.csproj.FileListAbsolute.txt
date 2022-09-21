@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.exe
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.deps.json
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.runtimeconfig.json
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.dll
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.pdb
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.dll
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.pdb
+C:\Users\Aluno\Downloads\aulastreinamentos\aulastreinamentos\PriscilaTreinamentos\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.genruntimeconfig.cache

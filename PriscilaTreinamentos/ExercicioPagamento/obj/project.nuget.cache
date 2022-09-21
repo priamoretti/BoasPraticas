@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+0jEi5gblkRWlHqTW+qPEsEamxZTNiq9pCubVX+cvFv2quFVxRp1xAnt+kUgXl4FBK8nMz275w0ebROVs2mcGA==",
+  "dgSpecHash": "rs1s6TawQ9u1ac393wy2uS7UHOHo1O+1EG1aW/4zQIFz7CdIt1c02YKFYdXlT5jTxil4r1QWxFrDkxVxp75GfQ==",
   "success": true,
-  "projectFilePath": "C:\\Priscila_Treinamentos\\PriscilaTreinamentos\\ExercicioPagamento\\ExercicioPagamento.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Downloads\\aulastreinamentos\\aulastreinamentos\\PriscilaTreinamentos\\ExercicioPagamento\\ExercicioPagamento.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.codeanalysis.common\\4.2.0\\microsoft.codeanalysis.common.4.2.0.nupkg.sha512",
